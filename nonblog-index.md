@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Hi, I'Mesfin!
+## Hi, I'm Habte!
 
 I love building [language technology](https://en.wikipedia.org/wiki/Language_technology) and programming in languages like Python and JavaScript. At the moment I'm doing my coding at the [AAU](http://www.aau.edu.et/).
 
