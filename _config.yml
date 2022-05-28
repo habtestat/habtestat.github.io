@@ -12,12 +12,12 @@ permalink:              /blog/:categories/:title/
 # permalink:            blog/:categories/:year/:month/:day/:title/
 
 # SetupeTdataEdge
-title:            'Mesfin Diro Chaka'
-name:             'Mesfin Diro Chaka'
+title:            'Habte Tadesse'
+name:             'Habte Tadesse'
 #tagline:          ''
-description:      'Computational Data Scientist'
-url:              'https://mesfind.github.io'
-baseurl:          'https://mesfind.github.io'
+description:      'Statistics'
+url:              'https://habtestat.github.io'
+baseurl:          'https://habtestat.github.io'
 # blogurl:          /blog/
 
 # Assets
@@ -25,18 +25,18 @@ images:         '/img'
 pdfs:           '/pdf'
 
 author:
-  name:           'Mesfin Diro Chaka'
-  url:            'mesfind.github.io'
-  email:          'mesfindiro@gmail.com'
-  github:         'https://github.com/mesfind'
+  name:           'Habte Tadesse'
+  url:            'habtestat.github.io'
+  email:          'habte.tade@yahoo.com'
+  github:         'https://github.com/habtestat'
   github_io_url:  "http://mesfind.github.io"
-  facebook:       'https://www.facebook.com/rasmesfind'
-  twitter:        'https://twitter.com/mesfindiro'
-  googleplus:     'https://www.google.com/+MesfinDiro'
-  linkedin:       'https://www.linkedin.com/in/mesfindiro'
-  slack:          'https://et-carpentries.slack.com'
-  disqus_shortname: mesfind
-  gravatar_md5: ed696e2bc0e966c127f430f8ecdcd689
+  facebook:       'https://www.facebook.com/habtestat'
+  twitter:        'https://twitter.com/habtestat'
+  googleplus:     'https://www.google.com/habtestat'
+  linkedin:       'https://www.linkedin.com/in/habtestat'
+  slack:          'https://habtestat.slack.com'
+  disqus_shortname: habtestat
+  gravatar_md5: ''
 
 paginate:         3
 # paginate_path:    "/blog/page:num/"
@@ -45,7 +45,7 @@ paginate:         3
 version:          2.1.0
 
 github:           
-  repo:           https://github.com/mesfind/mesfind.github.io
+  repo:           https://github.com/habtestat/habtestat.github.io
 
 # Collections
 collections:
